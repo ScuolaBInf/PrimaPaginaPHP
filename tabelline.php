@@ -15,10 +15,10 @@
 			<tr>
 				<th> 
                 </th>
-				<th colspan="11">Righe</th>
+				<th colspan="11">C<br>o<br>l<br>o<br>n<br>n<br>e</th>
 			</tr>
 			<tr>
-				<th rowspan="12">C<br>o<br>l<br>o<br>n<br>n<br>e</th>
+				<th rowspan="12">Righe</th>
 			</tr>
 				<th>
 					<?php
